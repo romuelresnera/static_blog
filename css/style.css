@@ -1,5 +1,5 @@
 :root{
-    --pink:#e84393;
+    --red:#e84393;
 }
 
 *{
@@ -243,7 +243,7 @@ header .fa-bars{
     top:1rem; left:1rem;
     padding:.7rem 1rem;
     font-size: 2rem;
-    color:var(--pink);
+    color:var(--red);
     background:rgba(255, 51, 153,.05);
     z-index: 1;
     border-radius: .5rem;
@@ -279,7 +279,7 @@ header .fa-bars{
     line-height: 5rem;
     font-size: 2rem;
     width:50%;
-    background:var(--pink);
+    background:var(--red);
     color:#fff;
 }
 
@@ -305,7 +305,7 @@ header .fa-bars{
 
 .products .box-container .box .content .price{
     font-size: 2.5rem;
-    color:var(--pink);
+    color:var(--red);
     font-weight: bolder;
     padding-top: 1rem;
 }
