@@ -33,7 +33,7 @@ section{
 }
 
 .heading span{
-    color:var(--pink);
+    color:var(--red);
 }
 
 .btn{
@@ -48,7 +48,7 @@ section{
 }
 
 .btn:hover{
-    background:var(--pink);
+    background:var(--red);
 }
 
 header{
@@ -70,7 +70,7 @@ header .logo{
 }
 
 header .logo span{
-    color:var(--pink);
+    color:var(--red);
 }
 
 header .navbar a{
@@ -80,7 +80,7 @@ header .navbar a{
 }
 
 header .navbar a:hover{
-    color:var(--pink);
+    color:var(--red);
 }
 
 header .icons a{
@@ -90,7 +90,7 @@ header .icons a{
 }
 
 header .icons a:hover{
-    color:var(--pink);
+    color:var(--red);
 }
 
 header #toggler{
@@ -127,7 +127,7 @@ header .fa-bars{
 
 .home .content span{
     font-size: 3.5rem;
-    color:var(--pink);
+    color:var(--red);
     padding:1rem 0;
     line-height: 1.5;
 }
@@ -340,7 +340,7 @@ header .fa-bars{
 }
 
 .review .box-container .box .stars i{
-    color:var(--pink);
+    color:var(--red);
     font-size: 2rem;
 }
 
@@ -411,7 +411,7 @@ header .fa-bars{
 }
 
 .contact .row form .box:focus{
-    border-color: var(--pink);
+    border-color: var(--red);
 }
 
 .contact .row form textarea{
@@ -463,7 +463,7 @@ header .fa-bars{
 }
 
 .footer .credit span{
-    color:var(--pink);
+    color:var(--red);
 }
 
 
